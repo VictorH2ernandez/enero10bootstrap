@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+
+.card a{
+    transition: 5s;
+}
+
+.card :hover{
+   /*  transition: 3s; */
+    background-color: rgb(70, 68, 68);
+    color: white;
+}
